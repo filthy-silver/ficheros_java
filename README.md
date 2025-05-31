@@ -1,8 +1,8 @@
 # Ficheros y flujos en Java
 
-[Actividad 1 ](## ACTIVIDAD 1)       [Actividad 3](## ACTIVIDAD 3)        [Actividad 5](## ACTIVIDAD 5)        [Actividad 7](## ACTIVIDAD 7)       [ Actividad 9](## ACTIVIDAD 9)
+[Actividad 1](##ACTIVIDAD-1)       [Actividad 3](##ACTIVIDAD-3)        [Actividad 5](##ACTIVIDAD-5)        [Actividad 7](##ACTIVIDAD-7)       [ Actividad 9](##ACTIVIDAD-9)
 
-[Actividad 2](## ACTIVIDAD 2)        [Actividad 4](## ACTIVIDAD 4)        [Actividad 6 ](## ACTIVIDAD 6)       [Actividad 8](## ACTIVIDAD 8)        [Actividad 10](## ACTIVIDAD 10)
+[Actividad 2](##ACTIVIDAD-2)        [Actividad 4](##ACTIVIDAD-4)        [Actividad 6 ](##ACTIVIDAD-6)       [Actividad 8](##ACTIVIDAD-8)        [Actividad 10](##ACTIVIDAD-10)
 
 ## ACTIVIDAD 1
 
